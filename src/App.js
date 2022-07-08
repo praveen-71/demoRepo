@@ -23,11 +23,11 @@ function App() {
         <Navbar/>
        <Routes>
        {/* <Route path='/' element={<Register/>}></Route> */}
-       <Route path='/login' element={<Login setuserid={setuserid}/>}></Route>
+       {/* <Route path='/login' element={<Login setuserid={setuserid}/>}></Route>
        <Route path='/dashboard' element={<Dash/>}></Route>
        <Route path='/user' element={<Userdetails/>}></Route>
        <Route path='/chart' element={<Piechart/>}></Route>
-       <Route path='/logout' element={<Logout/>}></Route>
+       <Route path='/logout' element={<Logout/>}></Route> */}
 
 
        {/* 
